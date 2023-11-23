@@ -1,0 +1,97 @@
+,precision,recall,f1-score,support
+Accessibility,0.0,0.0,0.0,0.0
+Advertise,0.0,0.0,0.0,1.0
+Artificial Intelligence,0.0,0.0,0.0,1.0
+Arts,0.0,0.0,0.0,1.0
+Audio,0.0,0.0,0.0,0.0
+Baby and Kid,0.0,0.0,0.0,1.0
+Best Sellers,0.0,0.0,0.0,1.0
+Books,0.0,0.0,0.0,1.0
+Business,0.0,0.0,0.0,0.0
+Climate,0.0,0.0,0.0,1.0
+Congress,0.0,0.0,0.0,1.0
+Connections,0.0,0.0,0.0,0.0
+DealBook,0.0,0.0,0.0,1.0
+Dessert,0.0,0.0,0.0,1.0
+Easy,0.0,0.0,0.0,0.0
+Economy,0.0,0.0,0.0,1.0
+Energy Transition,0.0,0.0,0.0,1.0
+Ezra Klein,0.0,0.0,0.0,1.0
+Fashion,0.0,0.0,0.0,1.0
+Food,0.0,0.0,0.0,0.0
+Games,0.0,0.0,0.0,0.0
+Gifts,0.0,0.0,0.0,1.0
+Golf,0.0,0.0,0.0,0.0
+Health,0.0,0.0,0.0,1.0
+Healthy,0.0,0.0,0.0,1.0
+Help,0.0,0.0,0.0,1.0
+International,0.0,0.0,0.0,0.0
+Letter Boxed,0.0,0.0,0.0,1.0
+Letters,0.0,0.0,0.0,1.0
+Lifestyle,0.0,0.0,0.0,0.0
+Live,0.0,0.0,0.0,1.0
+MLB,0.0,0.0,0.0,1.0
+MLS,0.0,0.0,0.0,1.0
+Maps,0.0,0.0,0.0,1.0
+Media,0.0,0.0,0.0,1.0
+Middle East,0.0,0.0,0.0,1.0
+Mind,0.0,0.0,0.0,0.0
+Moving,0.0,0.0,0.0,1.0
+NBA,0.0,0.0,0.0,1.0
+NCAAM,0.0,0.0,0.0,1.0
+NCAAW,0.0,0.0,0.0,1.0
+NFL,0.0,0.0,0.0,1.0
+NFL Standings,0.0,0.0,0.0,1.0
+NHL,0.0,0.0,0.0,0.0
+NYTCo,0.0,0.0,0.0,0.0
+Opinion,0.0,0.0,0.0,1.0
+Pamela Paul,0.0,0.0,0.0,1.0
+Paul Krugman,0.0,0.0,0.0,1.0
+Photos,0.0,0.0,0.0,0.0
+Politics,0.0,0.0,0.0,0.0
+Popcast,0.0,0.0,0.0,1.0
+Potato Sides,0.0,0.0,0.0,1.0
+Privacy Policy,0.0,0.0,0.0,1.0
+Reader Favorites,0.0,0.0,0.0,0.0
+Real Estate,0.0,0.0,0.0,1.0
+Robot Vacuum,0.0,0.0,0.0,0.0
+Ross Douthat,0.0,0.0,0.0,1.0
+See all audio,0.0,0.0,0.0,1.0
+See all newsletters,0.0,0.0,0.0,1.0
+See all podcasts,0.0,0.0,0.0,1.0
+Sports,0.0,0.0,0.0,0.0
+Style,0.0,0.0,0.0,0.0
+Submit a Crossword,0.0,0.0,0.0,1.0
+Subscriptions,0.0,0.0,0.0,1.0
+Supreme Court,0.0,0.0,0.0,0.0
+T Brand Studio,0.0,0.0,0.0,1.0
+T Magazine,0.0,0.0,0.0,1.0
+Tech,0.0,0.0,0.0,1.0
+Television,0.0,0.0,0.0,1.0
+Terms of Service,0.0,0.0,0.0,1.0
+Thanksgiving,0.0,0.0,0.0,1.0
+Thanksgiving Recipes,0.0,0.0,0.0,0.0
+The Athletic,0.0,0.0,0.0,0.0
+The AthleticSports coverage,0.0,0.0,0.0,1.0
+The Book Review Podcast,0.0,0.0,0.0,1.0
+The Daily,0.0,0.0,0.0,0.0
+The Ethicist,0.0,0.0,0.0,1.0
+The Ezra Klein Show,0.0,0.0,0.0,0.0
+The Headlines,0.0,0.0,0.0,1.0
+The Magazine,0.0,0.0,0.0,0.0
+The Upshot,0.0,0.0,0.0,1.0
+Travel,1.0,1.0,1.0,1.0
+Trump Civil Fraud Trial,0.0,0.0,0.0,1.0
+Trump Investigations,0.0,0.0,0.0,0.0
+Vegetarian,0.0,0.0,0.0,0.0
+What to Listen To,0.0,0.0,0.0,1.0
+WirecutterProduct recommendations,0.0,0.0,0.0,0.0
+Wordle,0.0,0.0,0.0,1.0
+Wordle Review,0.0,0.0,0.0,1.0
+Wordplay Column,0.0,0.0,0.0,0.0
+World,0.0,0.0,0.0,0.0
+Your Ad Choices,0.0,0.0,0.0,1.0
+Your Money,0.0,0.0,0.0,1.0
+accuracy,0.015873015873015872,0.015873015873015872,0.015873015873015872,0.015873015873015872
+macro avg,0.010752688172043012,0.010752688172043012,0.010752688172043012,63.0
+weighted avg,0.015873015873015872,0.015873015873015872,0.015873015873015872,63.0
